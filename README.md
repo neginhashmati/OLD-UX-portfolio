@@ -1,6 +1,6 @@
-# UX-portfolio
+# OLD UX-portfolio
 
-This is a repository showcasing the different mockups I have created during my studies. All of the mockups have been created using Figma.
+This is a repository showcasing the different mockups I have created during my bachelor studies in Software Engineering and Management at the University of Gothenburg. All of the mockups have been created using Figma. My most recent UX work can be found here: neginhashmati.wordpress.com 
 
 ## DJ SmartCar - dancing car with accompanying Android app
 This project was created during the first year of my studies. The project consisted of coding movements to a miniature vehicle and creating an Android app for it. 
